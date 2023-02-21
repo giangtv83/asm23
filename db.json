@@ -1,0 +1,64 @@
+{
+  "portfolio": {
+    "name": "TRAN VAN GIANG",
+    "image": "https://res.cloudinary.com/dmtxuvqdc/image/upload/v1676778783/vanubhliuhwu4zlnzetd.jpg",
+    "cv_link": "https://www.topcv.vn/quan-ly-cv",
+    "github_link": "giangtv",
+    "level": "FE Dev",
+    "email": "giang02@gmail.com",
+    "bd": "02/02/2002",
+    "phone": "078123456789",
+    "address": "Ha Noi",
+    "detail": "Mọi nhà phát triển tuyệt vời mà bạn biết đều giải quyết các vấn đề mà họ không đủ trình độ để giải quyết cho đến khi họ thực sự làm được.",
+    "null": "Perspiciatis,"
+  },
+  "work": [
+    {
+      "start_time": "2020-10-01",
+      "company_name": "Cao dang FPOLY",
+      "end_time": "2023-06-01",
+      "level": "Kì 6",
+      "orther": "No",
+      "id": 1
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "id": 1
+    },
+    {
+      "name": "CSS",
+      "id": 2
+    }
+  ],
+  "project": [
+    {
+      "title": "Website code online",
+      "size": "1",
+      "detail": "Website thực hiện các bài test bằng nhiều ngôn ngữ code",
+      "position": "DEV",
+      "technologies": "22",
+      "github_link": "Dolorem error aut oc",
+      "demo_link": "22",
+      "id": 1
+    },
+    {
+      "title": "Game 2",
+      "size": "2",
+      "detail": "Game detail ",
+      "position": "Game position ",
+      "technologies": "technologies ",
+      "github_link": "Dolorem error aut oc",
+      "demo_link": "demo ",
+      "id": 2
+    }
+  ],
+  "connect": [
+    {
+      "data": "giang83",
+      "label": "Facebook",
+      "id": 2
+    }
+  ]
+}

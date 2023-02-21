@@ -1,0 +1,25 @@
+{
+    "name": "vangiang",
+    "version": "0.0.0",
+    "scripts": {
+        "dev": "vite --open",
+        "build": "vite build",
+        "preview": "vite preview",
+        "start": "json-server --watch db.json --port 3003"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.2",
+        "json-server": "^0.17.1",
+        "postcss": "^8.4.5",
+        "vite": "^2.7.2"
+    },
+    "dependencies": {
+        "@ckeditor/ckeditor5-build-classic": "^32.0.0",
+        "axios": "^0.25.0",
+        "bcryptjs": "^2.4.3",
+        "jquery": "^3.6.0",
+        "jquery-validation": "^1.19.3",
+        "navigo": "^8.11.1",
+        "slick-carousel": "^1.8.1"
+    }
+}
